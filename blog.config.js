@@ -2,7 +2,7 @@ const BLOG = {
   title: 'PabloCarreraEstrada',
   author: 'Pablo Carrera',
   email: 'poscye@protonmail.com',
-  link: 'https://blogpablines.vercel.app',
+  link: 'https://pblog.vercel.app',
   description: 'This gonna be an awesome website.',
   lang: 'en-US', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES']
   appearance: 'auto', // ['light', 'dark', 'auto'],
